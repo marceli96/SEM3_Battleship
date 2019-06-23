@@ -1,0 +1,6 @@
+Liczba kolumn: K
+Liczba wierszy: 12
+Liczba statków 2 masztowych: 3
+Liczba statków 3 masztowych: 2
+Liczba statków 4 masztowych: 2
+Liczba statków 5 masztowych: 1
